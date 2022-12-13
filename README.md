@@ -1,4 +1,4 @@
-# SamplePlugin
+# Challenger
 
 Simple example plugin for Dalamud.
 
