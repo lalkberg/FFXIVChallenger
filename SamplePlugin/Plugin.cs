@@ -1,12 +1,12 @@
-﻿using Dalamud.Game.Command;
+using Dalamud.Game.Command;
 using Dalamud.IoC;
 using Dalamud.Plugin;
 using System.IO;
 using System.Reflection;
 using Dalamud.Interface.Windowing;
-using SamplePlugin.Windows;
+using Challenger.Windows;
 
-namespace SamplePlugin
+namespace Challenger
 {
     public sealed class Plugin : IDalamudPlugin
     {
